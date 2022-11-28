@@ -92,6 +92,7 @@ Follow these simple instructions to set up a local development environment.
 ```bash
 git clone https://github.com/amplication/amplication.git
 cd amplication
+npm install
 ```
 
 2. Run the [setup script](https://github.com/amplication/amplication/blob/master/script/setup.ts), which takes care of installing dependencies, building packages and ensuring your workspace is dev-ready.
